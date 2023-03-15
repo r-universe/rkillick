@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "EnvCpt"]
-	path = EnvCpt
-	url = https://github.com/rkillick/envcpt
-	shallow = true
-	registered = true
 [submodule "changepoint"]
 	path = changepoint
 	url = https://github.com/rkillick/changepoint
@@ -16,5 +11,10 @@
 [submodule "changepoint.influence"]
 	path = changepoint.influence
 	url = https://github.com/rkillick/changepoint.influence
+	shallow = true
+	registered = true
+[submodule "EnvCpt"]
+	path = EnvCpt
+	url = https://github.com/rkillick/envcpt
 	shallow = true
 	registered = true

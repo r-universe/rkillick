@@ -1,14 +1,14 @@
 [
   {
-    "package": "EnvCpt",
-    "oncran": true
-  },
-  {
     "package": "changepoint",
     "oncran": true
   },
   {
     "package": "changepoint.influence",
+    "oncran": true
+  },
+  {
+    "package": "EnvCpt",
     "oncran": true
   }
 ]
